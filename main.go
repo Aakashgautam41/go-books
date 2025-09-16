@@ -51,3 +51,5 @@ func getEnv(key, fallback string) string {
     }
     return fallback
 }
+
+//https://chatgpt.com/share/68c95990-7cf0-8006-bb86-2c7814886ca5
